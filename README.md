@@ -45,6 +45,7 @@ ProxiSense is an IoT-based indoor proximity monitoring system that estimates the
 ---
 
 ## Project Architecture
+```
 BLE Device
 ↓
 HM-10 Bluetooth Module
@@ -58,5 +59,5 @@ ThingSpeak Cloud
 Web Dashboard
 ↓
 Graphs + Heatmap
-
+```
 ---
