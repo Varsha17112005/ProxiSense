@@ -61,3 +61,20 @@ Web Dashboard
 Graphs + Heatmap
 ```
 ---
+
+## Project Structure
+
+```text
+ProxiSense/
+│
+├── CC3200/
+│   └── Energia_Code.ino
+│
+├── Arduino/
+│   └── ArduinoIDE_Code.ino
+│
+├── ProxiSense.pdf
+│
+└── README.md
+```
+---
